@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Khepri'; /*egipcio*/
+    src: url('fonts/Khepri/Khepri.otf');
+}
+
+.titulo, .subtitulo {
+    text-align: center;
+    font-family: 'khepri';
+}
+
+body {
+    margin: 0;
+}
